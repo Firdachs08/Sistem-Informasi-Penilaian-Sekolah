@@ -1,2 +1,2 @@
 # SIM-Sekolah
-Sistem Informasi Management Nilai Siswa 
+Sistem Informasi Management Penilaian Siswa
